@@ -10,6 +10,8 @@ namespace Calculator.CalculatorParser
     {
         public int Add(string data, ref string equation)
         {
+            equation = string.Empty;
+            Console.WriteLine("Undefined Operation");
             return 0;
         }
     }

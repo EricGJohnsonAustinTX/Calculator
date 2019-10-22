@@ -11,3 +11,6 @@ D:\Restaurant365\Calc\Calculator\UnitTestCalculator\obj\Debug\UnitTestCalculator
 D:\Restaurant365\Calc\Calculator\UnitTestCalculator\obj\Debug\UnitTestCalculator.csproj.CopyComplete
 D:\Restaurant365\Calc\Calculator\UnitTestCalculator\obj\Debug\UnitTestCalculator.dll
 D:\Restaurant365\Calc\Calculator\UnitTestCalculator\obj\Debug\UnitTestCalculator.pdb
+D:\Restaurant365\Calc\Calculator\UnitTestCalculator\bin\Debug\Calculator.exe
+D:\Restaurant365\Calc\Calculator\UnitTestCalculator\bin\Debug\Calculator.pdb
+D:\Restaurant365\Calc\Calculator\UnitTestCalculator\bin\Debug\Calculator.exe.config
